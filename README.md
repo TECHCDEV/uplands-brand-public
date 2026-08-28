@@ -1,5 +1,3 @@
-# uplands-brand-public
+# Brand assets
 
-Public brand assets (logo image) used by the Cloudflare Access login page for the
-Uplands OneTelco proposal system. Public on purpose — contains no application code
-or data, only the logo.
+Logo image only. No application code or data.
